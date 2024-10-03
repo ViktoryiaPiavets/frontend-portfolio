@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/frontend-portfolio/static/js/main.43dde8a9.js",
+    "static/media/weather.png": "/frontend-portfolio/static/media/weather.713db93024129ed3ed6a.png",
+    "static/media/photo.png": "/frontend-portfolio/static/media/photo.2c179aca558507f9253d.png",
+    "static/media/movies.png": "/frontend-portfolio/static/media/movies.a8d4972bacf17df4d9c2.png",
+    "static/media/company.png": "/frontend-portfolio/static/media/company.1b7142311618ddeeeffd.png",
+    "static/media/todo.png": "/frontend-portfolio/static/media/todo.5f078f7261479dfd5bd3.png",
+    "index.html": "/frontend-portfolio/index.html",
+    "main.43dde8a9.js.map": "/frontend-portfolio/static/js/main.43dde8a9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.43dde8a9.js"
+  ]
+}
