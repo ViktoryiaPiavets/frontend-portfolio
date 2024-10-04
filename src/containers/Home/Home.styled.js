@@ -122,11 +122,11 @@ const Titleline = styled.div`
         margin-bottom: 60px;
     }
     @media (max-width: 360px) {
-        height: 4rem;       
+        height: 3.5rem;       
     }
 `
 
-const Title = styled.h1`    
+const Title = styled.h1`
     font-size: 2.5rem;    
     white-space: nowrap;    
 
@@ -135,7 +135,7 @@ const Title = styled.h1`
     }
 
     @media (max-width: 360px) {
-        font-size: 1.4rem;        
+        font-size: 1.1rem;
     }
 `
 
