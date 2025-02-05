@@ -22,7 +22,7 @@ const FooterContainer = styled.footer`
 const Footer = () => {
     return (
         <FooterContainer>
-            <p>&copy; 2024 Viktoryia Piavets</p>
+            <p>&copy; 2025 Viktoryia Piavets</p>
         </FooterContainer>
     );
 };

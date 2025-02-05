@@ -66,20 +66,27 @@ const About = () => {
             <AboutSection>
                 <Experience>
                     <Job>
-                        <JobPlace>
-                            <p>2021 - now</p>
-                            <div>
-                                <p>Frontend developer</p>
-                                <p>Epam Systems</p>
-                            </div>                
-                        </JobPlace>
-                        <JobPlace>
-                            <p>2020 - 2021</p>
-                            <div>
-                                <p>Content Manager</p>
-                                <p>Epam Systems</p>
-                            </div>                
-                        </JobPlace>                
+                    <JobPlace>
+                        <p>2024 - now</p>
+                        <div>
+                            <p>Frontend developer</p>
+                            <p>Freelance</p>
+                        </div>    
+                    </JobPlace>
+                    <JobPlace>
+                        <p>2021 - 2024</p>
+                        <div>
+                            <p>Frontend developer</p>
+                            <p>Epam Systems</p>
+                        </div>                
+                    </JobPlace>
+                    <JobPlace>
+                        <p>2020 - 2021</p>
+                        <div>
+                            <p>Content Manager</p>
+                            <p>Epam Systems</p>
+                        </div>                
+                    </JobPlace>                
                     </Job>            
                     <TotalNumbers>
                         <p><span>3+ &nbsp; </span>Years</p>
