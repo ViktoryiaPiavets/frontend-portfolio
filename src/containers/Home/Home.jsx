@@ -114,7 +114,7 @@ const Home = () => {
                     </Titleline>                
                     <p>
                         <ConnectButton ref={ConnectButtonRef} href="tel:+48571315850">Let's Talk</ConnectButton>
-                        <DownloadButton ref={DownloadButtonRef} href='/assets/Resume.pdf' download>Get CV</DownloadButton>
+                        <DownloadButton ref={DownloadButtonRef} href='/assets/CV.pdf' download>Get CV</DownloadButton>
                     </p>
                 </HeroText>
                 <HeroImage src={photo} />
