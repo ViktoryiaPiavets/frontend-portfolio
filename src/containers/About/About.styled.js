@@ -15,7 +15,7 @@ const AboutSection = styled.div`
 `;
 
 const Experience = styled.div`
-    width: 30%;
+    width: 35%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -86,7 +86,7 @@ const TotalNumbers = styled.div`
 `
 
 const Description = styled.div`
-    width: 70%;
+    width: 65%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -103,6 +103,10 @@ const Details = styled.p`
     color: ${(props) => props.theme.palette.primary.dark};
     line-height: 30px;
     text-align: justify;
+
+    p:not(:last-child){
+        margin-bottom: 20px;
+    }
 
     @media (max-width: 360px) {
         padding: 20px;
